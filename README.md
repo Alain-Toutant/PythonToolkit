@@ -15,3 +15,7 @@ Print any binary tree on the console
 - Optimized disposition to save space
 - Supports any tree class or structure (no inheritance needed)
 - Support heap trees stored in lists
+
+# Loop.py
+
+Loop Class to allow C-like loops and non-standard progressions/ranges
