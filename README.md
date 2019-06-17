@@ -9,6 +9,12 @@ Prop class: allow definition or properties outside of __init__()
 - Properties be lazily initialized upon first reference
 - Lazy initialization allows use fields of current object instance
 
+# printTree.py
+
+Print any tree structure on the console
+- Supports any tree class or structure (no inheritance needed)
+- Formats tree horizontally
+
 # printBTree.py
 
 Print any binary tree on the console
